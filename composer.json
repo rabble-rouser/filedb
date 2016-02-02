@@ -1,0 +1,19 @@
+{
+  "name": "rabblerouser/filedb",
+  "description": "Rabble+Rouser filesystem database.",
+  "version": "0.0.3",
+  "keywords": ["rabble+rouser", "filesystem", "database"],
+  "require": {
+    "php": ">=5.5.9",
+    "league/flysystem": "^1.0"
+  },
+  "require-dev": {
+    "fzaninotto/faker": "~1.4",
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RabbleRouser\\FileDB\\": "src/"
+    }
+  }
+}
