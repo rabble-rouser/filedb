@@ -2,7 +2,7 @@
   "name": "rabblerouser/filedb",
   "description": "Rabble+Rouser filesystem database.",
   "version": "0.0.3",
-  "keywords": ["rabble+rouser", "filesystem", "database"],
+  "keywords": ["rabblerouser", "filesystem", "database"],
   "require": {
     "php": ">=5.5.9",
     "league/flysystem": "^1.0"
